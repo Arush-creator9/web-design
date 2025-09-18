@@ -1,2 +1,2 @@
 # web-design
-web design daily work
+web design 3rd sem daily work
